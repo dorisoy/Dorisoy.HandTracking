@@ -140,3 +140,5 @@ cv2.destroyAllWindows()
 ```
 
 ## 屏幕
+
+https://github.com/dorisoy/Dorisoy.HandTracking/blob/main/Video/826bc7f6c296dfae62b87318218fe8eb.mp4

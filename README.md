@@ -1,4 +1,4 @@
-# Unity-Python hand tracking and gesture recognition application
+# Dorisoy.HandTracking
 
 该项目使用 python 脚本和 C#脚本的组合来创建一个具有手部跟踪和手势识别功能的 Unity 应用程序。使用 python 脚本来检测手部运动和相对手势。
 
